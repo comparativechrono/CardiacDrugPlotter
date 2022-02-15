@@ -1,6 +1,6 @@
-## Cardiac Drug Plotter
+## Cardiac Drug Plotter <img src="https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1" width="150" height="150" style="float:right">
 
-Welcome to a resource from the comparative chronomics group hosted on GitHub ![Image](https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1)
+Welcome to a resource from the comparative chronomics group hosted on GitHub
 
 The cardiac drug plotter is intended to aid in planning for clinical trial design when considering drugs with targets that have circadian expression
 
