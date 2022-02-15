@@ -11,7 +11,7 @@ The underlying code and data can be downloaded from the GitHub repository linked
 
 ### Usage <img src="https://www.dropbox.com/s/08lzyayihawb04r/cardiacplotter.png?dl=1" width="300" height="150" style="float:right">
 
-Upon loading the plotter displays an idealised diurnal heart rate in white, and drug target in teal. To aid in [using the drug plotter](https://chronomics.shinyapps.io/CardiacDrugPlotter/) please follow these steps: 
+Upon loading the plotter displays an idealised diurnal heart QT interval for a long day in **white**, and drug target in **teal**. To aid in [using the drug plotter](https://chronomics.shinyapps.io/CardiacDrugPlotter/) please follow these steps: 
 
 - Select a drug from the first drop down menu
 - Select a target of the drug from the second drop down menu
