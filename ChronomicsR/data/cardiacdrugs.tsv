@@ -1,0 +1,493 @@
+cycler_symb	cycler_name	tissue	rAmp_avg	rsq_avg	phase_avg	target_type	drug
+ABAT	4-aminobutyrate aminotransferase	Artery Tibial	0.696	0.343	0.554	target	Valproic Acid
+ABAT	4-aminobutyrate aminotransferase	Artery Tibial	0.696	0.343	0.554	target	Vigabatrin
+ABCA1	ATP binding cassette subfamily A member 1	Heart Atrial	0.399	0.116	5.158	target	Probucol
+ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group)	Heart Atrial	0.475	0.257	3.569	transporter	Cobicistat
+ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group)	Heart Atrial	0.475	0.257	3.569	transporter	Riociguat
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	Heart Atrial	0.425	0.332	4.503	target	Dasatinib
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	Heart Atrial	0.425	0.332	4.503	target	Nilotinib
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	Heart Atrial	0.425	0.332	4.503	target	Bosutinib
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	Heart Atrial	0.425	0.332	4.503	target	Regorafenib
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	Heart Atrial	0.425	0.332	4.503	target	Ponatinib
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Caffeine
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Theophylline
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Adenosine
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Dyphylline
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Pentoxifylline
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Aminophylline
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Oxtriphylline
+ADORA1	adenosine A1 receptor	Heart Atrial	0.356	0.182	2.342	target	Theobromine
+ADORA3	adenosine A3 receptor	Artery Coronary	1.552	0.115	0.609	target	Aminophylline
+ADORA3	adenosine A3 receptor	Artery Coronary	1.552	0.115	0.609	target	Adenosine
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Midodrine
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Dapiprazole
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Alfuzosin
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Norepinephrine
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Phenylephrine
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Prazosin
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Doxazosin
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Ergotamine
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Terazosin
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Thioproperazine
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Droxidopa
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Brexpiprazole
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Labetalol
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Ergoloid mesylate
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Dosulepin
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Tiapride
+ADRA1B	adrenoceptor alpha 1B	Heart Atrial	0.359	0.194	3.203	target	Mephentermine
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Norepinephrine
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Timolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Dipivefrin
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Sotalol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Carteolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Labetalol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Orciprenaline
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Ritodrine
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Terbutaline
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Salmeterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Pindolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Formoterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Isoprenaline
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Levobunolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Metipranolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Arformoterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Fenoterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Pirbuterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Penbutolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Procaterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Bambuterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Celiprolol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Indacaterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Droxidopa
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Olodaterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Vilanterol
+ADRB2	adrenoceptor beta 2	Heart Atrial	0.349	0.177	3.003	target	Levosalbutamol
+ANO1	anoctamin 1	Artery Coronary	0.318	0.171	3.177	target	Crofelemer
+AOC3	amine oxidase, copper containing 3	Heart Atrial	0.316	0.134	3.729	target	Hydralazine
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Flutamide
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Oxandrolone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Testosterone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Nilutamide
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Drostanolone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Bicalutamide
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Fluoxymesterone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Drospirenone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Danazol
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Cyproterone acetate
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Oxymetholone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Methyltestosterone
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Nandrolone decanoate
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Enzalutamide
+AR	aldo-keto reductase family 1 member B, androgen receptor, amphiregulin	Heart Atrial	0.418	0.3	2.828	target	Dienogest
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Digoxin
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Acetyldigitoxin
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Etacrynic acid
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Deslanoside
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Ouabain
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Bretylium
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Ciclopirox
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Digitoxin
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Almitrine
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1, ATPase Na+/K+ transporting subunit alpha 3, ATPase Na+/K+ transporting subunit alpha 4	Artery Tibial	0.422	0.201	5.834	target; carrier	Rubidium chloride Rb-82
+ATP1B2	ATPase Na+/K+ transporting subunit beta 2	Artery Coronary, Heart Atrial	0.484	0.196	3.284	carrier	Rubidium chloride Rb-82
+ATP1B3	ATPase Na+/K+ transporting subunit beta 3	Artery Coronary, Heart Atrial	0.582	0.3	4.818	carrier	Rubidium chloride Rb-82
+AVPR1A	arginine vasopressin receptor 1A	Artery Coronary	0.615	0.162	4.54	target	Desmopressin
+AVPR1A	arginine vasopressin receptor 1A	Artery Coronary	0.615	0.162	4.54	target	Vasopressin
+AVPR1A	arginine vasopressin receptor 1A	Artery Coronary	0.615	0.162	4.54	target	Felypressin
+AVPR1A	arginine vasopressin receptor 1A	Artery Coronary	0.615	0.162	4.54	target	Conivaptan
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Dipivefrin
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Pyridostigmine
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Malathion
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Hexafluronium
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Rivastigmine
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Edrophonium
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Echothiophate
+BCHE	butyrylcholinesterase	Heart Atrial	0.367	0.117	3.4	target; enzyme	Aclidinium
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Topiramate
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Methazolamide
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Dorzolamide
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Diazoxide
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Diclofenamide
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Brinzolamide
+CA2	carbonic anhydrase 2	Artery Coronary	0.485	0.125	4.944	target	Quinethazone
+CACNA2D2	calcium voltage-gated channel auxiliary subunit alpha2delta 2	Heart Atrial	0.475	0.217	2.864	target	Isradipine
+CACNA2D2	calcium voltage-gated channel auxiliary subunit alpha2delta 2	Heart Atrial	0.475	0.217	2.864	target	Gabapentin
+CACNA2D2	calcium voltage-gated channel auxiliary subunit alpha2delta 2	Heart Atrial	0.475	0.217	2.864	target	Amiodarone
+CACNB1	calcium voltage-gated channel auxiliary subunit beta 1	Aorta, Artery Coronary, Artery Tibial	0.321	0.244	3.632	target	Ibutilide
+CACNB1	calcium voltage-gated channel auxiliary subunit beta 1	Aorta, Artery Coronary, Artery Tibial	0.321	0.244	3.632	target	Nimodipine
+CACNB1	calcium voltage-gated channel auxiliary subunit beta 1	Aorta, Artery Coronary, Artery Tibial	0.321	0.244	3.632	target	Verapamil
+CACNB1	calcium voltage-gated channel auxiliary subunit beta 1	Aorta, Artery Coronary, Artery Tibial	0.321	0.244	3.632	target	Trimebutine
+CACNB1	calcium voltage-gated channel auxiliary subunit beta 1	Aorta, Artery Coronary, Artery Tibial	0.321	0.244	3.632	target	Manidipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Isradipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Amlodipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Nimodipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Nisoldipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Nicardipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Verapamil
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Felodipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Nitrendipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Nifedipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Nilvadipine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Trimebutine
+CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Heart Atrial	0.398	0.211	2.911	target	Manidipine
+CACNB4	calcium voltage-gated channel auxiliary subunit beta 4	Artery Tibial	0.399	0.22	3.339	target	Nimodipine
+CACNB4	calcium voltage-gated channel auxiliary subunit beta 4	Artery Tibial	0.399	0.22	3.339	target	Verapamil
+CACNB4	calcium voltage-gated channel auxiliary subunit beta 4	Artery Tibial	0.399	0.22	3.339	target	Trimebutine
+CACNB4	calcium voltage-gated channel auxiliary subunit beta 4	Artery Tibial	0.399	0.22	3.339	target	Manidipine
+CCL2	C-C motif chemokine ligand 2	Artery Coronary, Artery Tibial, Heart Atrial	1.044	0.207	4.589	target	Mimosine
+CCND1	cyclin D1	Artery Coronary, Artery Tibial	0.348	0.24	3.267	target	Arsenic trioxide
+CD274	CD274 molecule	Artery Coronary	0.515	0.339	3.898	target	Atezolizumab
+CD274	CD274 molecule	Artery Coronary	0.515	0.339	3.898	target	Durvalumab
+CD274	CD274 molecule	Artery Coronary	0.515	0.339	3.898	target	Avelumab
+CD33	CD33 molecule	Aorta	0.625	0.185	0.834	target	Gemtuzumab ozogamicin
+CHD1	chromodomain helicase DNA binding protein 1	Aorta, Artery Coronary, Heart Atrial	0.368	0.316	4.606	target	Epirubicin
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Ipratropium bromide
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Oxyphencyclimine
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Procyclidine
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Carbachol
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Hyoscyamine
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Methylscopolamine bromide
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Gallamine Triethiodide
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Anisotropine Methylbromide
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Homatropine Methylbromide
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Rocuronium
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Cryptenamine
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Bethanechol
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Tolterodine
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Oxybutynin
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Pilocarpine
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Doxepin
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Flavoxate
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Dimetindene
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Aclidinium
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Umeclidinium
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Dosulepin
+CHRM2	cholinergic receptor muscarinic 2	Heart Atrial	0.67	0.285	2.073	target	Imidafenacin
+CKM	creatine kinase, M-type	Artery Tibial	0.948	0.024	2.708	target	Phosphocreatine
+CLCN2	chloride voltage-gated channel 2	Heart Atrial	0.369	0.274	2.535	target	Lubiprostone
+CPT2	carnitine palmitoyltransferase 2	Artery Coronary, Heart Atrial	0.465	0.227	1.442	target	Perhexiline
+CYSLTR2	cysteinyl leukotriene receptor 2	Heart Atrial	0.596	0.293	3.782	target	Nedocromil
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Pramipexole
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Lisuride
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Apomorphine
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Dopamine
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Levodopa
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Paliperidone
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Flibanserin
+DRD4	dopamine receptor D4	Artery Coronary	0.643	0.355	3.915	target	Rotigotine
+EDNRB	endothelin receptor type B	Artery Coronary	0.523	0.164	5.207	target	Bosentan
+EDNRB	endothelin receptor type B	Artery Coronary	0.523	0.164	5.207	target	Macitentan
+EPOR	erythropoietin receptor	Artery Coronary	0.34	0.15	3.878	target	Darbepoetin alfa
+EPOR	erythropoietin receptor	Artery Coronary	0.34	0.15	3.878	target	Erythropoietin
+EPOR	erythropoietin receptor	Artery Coronary	0.34	0.15	3.878	target	Peginesatide
+EPOR	erythropoietin receptor	Artery Coronary	0.34	0.15	3.878	target	Methoxy polyethylene glycol-epoetin beta
+ERBB2	erb-b2 receptor tyrosine kinase 2	Heart Atrial	0.348	0.227	2.575	target	Trastuzumab
+ERBB2	erb-b2 receptor tyrosine kinase 2	Heart Atrial	0.348	0.227	2.575	target	Lapatinib
+ERBB2	erb-b2 receptor tyrosine kinase 2	Heart Atrial	0.348	0.227	2.575	target	Trastuzumab emtansine
+ERBB2	erb-b2 receptor tyrosine kinase 2	Heart Atrial	0.348	0.227	2.575	target	Pertuzumab
+ERBB2	erb-b2 receptor tyrosine kinase 2	Heart Atrial	0.348	0.227	2.575	target	Afatinib
+ERBB4	erb-b2 receptor tyrosine kinase 4	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.358	0.232	3.009	target	Afatinib
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Diethylstilbestrol
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Conjugated estrogens
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Etonogestrel
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Desogestrel
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Levonorgestrel
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Raloxifene
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Toremifene
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Medroxyprogesterone acetate
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Estrone
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Tamoxifen
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Ethynodiol diacetate
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Clomifene
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Dienestrol
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Fulvestrant
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Norgestimate
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Ethinyl Estradiol
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Fluoxymesterone
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Estramustine
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Mestranol
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Danazol
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Estrone sulfate
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Quinestrol
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Ospemifene
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Lasofoxifene
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Bazedoxifene
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Tibolone
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Synthetic Conjugated Estrogens A
+ESR1	estrogen receptor 1	Artery Coronary	0.556	0.397	3.458	target	Synthetic Conjugated Estrogens B
+FADS1	fatty acid desaturase 1	Heart Atrial	0.311	0.184	3.531	target	Alpha-Linolenic Acid
+FADS2	fatty acid desaturase 2	Heart Atrial	0.361	0.163	3.511	target	Alpha-Linolenic Acid
+FCER1A	Fc fragment of IgE receptor Ia	Artery Coronary	0.689	0.159	2.904	target	Omalizumab
+FCER1A	Fc fragment of IgE receptor Ia	Artery Coronary	0.689	0.159	2.904	target	Benzylpenicilloyl Polylysine
+FCER1G	Fc fragment of IgE receptor Ig	Heart Atrial	0.498	0.082	5.661	target	Benzylpenicilloyl Polylysine
+FCGR2A	Fc fragment of IgG receptor IIa	Heart Atrial	0.487	0.074	5.384	target	Immune Globulin Human
+FGF1	fibroblast growth factor 1	Artery Tibial	0.495	0.17	4.038	target	Pentosan Polysulfate
+FGF2	fibroblast growth factor 2, fibroblast growth factor 13	Artery Coronary, Heart Atrial	0.387	0.242	4.198	target	Sucralfate
+FGF2	fibroblast growth factor 2, fibroblast growth factor 13	Artery Coronary, Heart Atrial	0.387	0.242	4.198	target	Pentosan Polysulfate
+FGF2	fibroblast growth factor 2, fibroblast growth factor 13	Artery Coronary, Heart Atrial	0.387	0.242	4.198	target	Sirolimus
+FGFR1	fibroblast growth factor receptor 1	Heart Atrial	0.344	0.371	4.168	target	Sorafenib
+FGFR1	fibroblast growth factor receptor 1	Heart Atrial	0.344	0.371	4.168	target	Regorafenib
+FGFR1	fibroblast growth factor receptor 1	Heart Atrial	0.344	0.371	4.168	target	Lenvatinib
+FGFR1	fibroblast growth factor receptor 1	Heart Atrial	0.344	0.371	4.168	target	Nintedanib
+FGFR4	fibroblast growth factor receptor 4	Heart Atrial	0.53	0.236	3.024	target	Lenvatinib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Sorafenib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Sunitinib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Pazopanib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Axitinib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Regorafenib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Lenvatinib
+FLT1	fms related tyrosine kinase 1	Artery Coronary	0.501	0.206	4.502	target	Nintedanib
+FRK	fyn related Src family tyrosine kinase	Artery Coronary, Heart Atrial	0.472	0.229	2.135	target	Regorafenib
+GABBR1	gamma-aminobutyric acid type B receptor subunit 1, ubiquitin D	Artery Coronary	0.326	0.158	3.794	target	Baclofen
+GABBR1	gamma-aminobutyric acid type B receptor subunit 1, ubiquitin D	Artery Coronary	0.326	0.158	3.794	target	Progabide
+GABBR1	gamma-aminobutyric acid type B receptor subunit 1, ubiquitin D	Artery Coronary	0.326	0.158	3.794	target	Vigabatrin
+GABBR1	gamma-aminobutyric acid type B receptor subunit 1, ubiquitin D	Artery Coronary	0.326	0.158	3.794	target	Taurine
+GAMT	guanidinoacetate N-methyltransferase	Artery Coronary, Artery Tibial, Heart Atrial	0.38	0.262	3.243	target	Phosphocreatine
+GHR	growth hormone receptor	Heart Atrial	0.332	0.212	2.946	target	Somatotropin
+GHR	growth hormone receptor	Heart Atrial	0.332	0.212	2.946	target	Pegvisomant
+GLS	glutaminase, glutaminase 2	Artery Coronary	0.311	0.242	3.308	enzyme	Indocyanine green
+GNRHR2	gonadotropin releasing hormone receptor 2 (pseudogene)	Aorta, Artery Coronary, Heart Atrial	0.425	0.259	2.705	target	Nafarelin
+GNRHR2	gonadotropin releasing hormone receptor 2 (pseudogene)	Aorta, Artery Coronary, Heart Atrial	0.425	0.259	2.705	target	Danazol
+GRIA1	glutamate ionotropic receptor AMPA type subunit 1	Artery Coronary	0.682	0.204	3.405	target	Desflurane
+GRIA1	glutamate ionotropic receptor AMPA type subunit 1	Artery Coronary	0.682	0.204	3.405	target	Perampanel
+HDAC9	histone deacetylase 9	Aorta, Artery Coronary, Artery Tibial	0.396	0.247	3.114	target	Valproic Acid
+HDAC9	histone deacetylase 9	Aorta, Artery Coronary, Artery Tibial	0.396	0.247	3.114	target	Belinostat
+HDAC9	histone deacetylase 9	Aorta, Artery Coronary, Artery Tibial	0.396	0.247	3.114	target	Panobinostat
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Betazole
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Cimetidine
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Nizatidine
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Epinastine
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Ranitidine
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Famotidine
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Methantheline
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Doxepin
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Histamine
+HRH2	DEAH-box helicase 15, histamine receptor H2	Artery Tibial	0.871	0.133	4.954	target	Roxatidine acetate
+IDH1	isocitrate dehydrogenase (NADP(+)) 1, cytosolic	Heart Atrial	0.44	0.181	2.002	enzyme	Indocyanine green
+IL11RA	interleukin 11 receptor subunit alpha	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.293	0.251	3.1	target	Oprelvekin
+IL1B	interleukin 1 beta	Artery Coronary	0.722	0.036	4.631	target	Gallium nitrate
+IL1B	interleukin 1 beta	Artery Coronary	0.722	0.036	4.631	target	Canakinumab
+IL1R1	interleukin 1 receptor type 1	Heart Atrial	0.49	0.195	5.135	target	Anakinra
+IL4R	interleukin 4 receptor	Artery Coronary, Heart Atrial	0.513	0.374	4.692	target	Dupilumab
+IL6	interleukin 6	Artery Coronary	1.181	0.138	4.6	target	Siltuximab
+IL6R	interleukin 6 receptor	Heart Atrial	0.373	0.234	4.221	target	Sarilumab
+IL6R	interleukin 6 receptor	Heart Atrial	0.373	0.234	4.221	target	Tocilizumab
+KCNE1	potassium voltage-gated channel subfamily E regulatory subunit 1	Heart Atrial	0.358	0.173	2.415	target	Indapamide
+KCNMB2	potassium calcium-activated channel subfamily M regulatory beta subunit 2, potassium calcium-activated channel subfamily M regulatory beta subunit 3	Heart Atrial	0.385	0.16	2.314	target	Trimebutine
+KCNN2	potassium calcium-activated channel subfamily N member 2	Heart Atrial	0.521	0.179	1.93	target	Trimebutine
+KLKB1	kallikrein B1	Artery Coronary, Heart Atrial	0.536	0.183	3.172	target	Ecallantide
+KLKB1	kallikrein B1	Artery Coronary, Heart Atrial	0.536	0.183	3.172	target	Human C1-esterase inhibitor
+KLKB1	kallikrein B1	Artery Coronary, Heart Atrial	0.536	0.183	3.172	target	Conestat alfa
+LEPR	leptin receptor, leptin receptor overlapping transcript	Artery Coronary	0.565	0.271	4.133	target	Metreleptin
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Phentermine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Tranylcypromine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Phenelzine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Minaprine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Moclobemide
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Isocarboxazid
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Methamphetamine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Amphetamine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Procarbazine
+MAOA	monoamine oxidase A	Artery Tibial	0.607	0.28	0.561	target; enzyme	Copper
+MAP2	microtubule associated protein 2, methionyl aminopeptidase 2	Artery Tibial	0.371	0.241	3.103	target	Estramustine
+MAP2	microtubule associated protein 2, methionyl aminopeptidase 2	Artery Tibial	0.371	0.241	3.103	target	Docetaxel
+MMP15	matrix metallopeptidase 15	Heart Atrial	0.376	0.171	2.609	target	Marimastat
+MMP16	matrix metallopeptidase 16	Aorta, Artery Coronary, Artery Tibial	0.457	0.254	3.087	target	Marimastat
+MMP17	matrix metallopeptidase 17	Artery Coronary, Heart Atrial	0.396	0.154	4.202	target	Marimastat
+MMP19	matrix metallopeptidase 19	Heart Atrial	0.654	0.347	4.794	target	Marimastat
+MT-CO1	NA	Artery Coronary	1.409	0.269	0.98	enzyme	Copper
+NISCH	nischarin	Artery Coronary	0.308	0.222	3.767	target	Moxonidine
+NPR1	natriuretic peptide receptor 1	Artery Coronary	0.517	0.138	0.737	target	Nitroprusside
+NPR1	natriuretic peptide receptor 1	Artery Coronary	0.517	0.138	0.737	target	Nitroglycerin
+NPR1	natriuretic peptide receptor 1	Artery Coronary	0.517	0.138	0.737	target	Isosorbide Dinitrate
+NPR1	natriuretic peptide receptor 1	Artery Coronary	0.517	0.138	0.737	target	Amyl Nitrite
+NPR1	natriuretic peptide receptor 1	Artery Coronary	0.517	0.138	0.737	target	Erythrityl Tetranitrate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Flunisolide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Diflorasone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Alclometasone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Medrysone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Amcinonide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Fluorometholone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Beclomethasone dipropionate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Desoximetasone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Fluticasone propionate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Ulobetasol
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Hydrocortamate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Mifepristone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Clocortolone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Flurandrenolide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Loteprednol
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Rimexolone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Clobetasol propionate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Fluocinonide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Prednicarbate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Budesonide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Desonide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Cortisone acetate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Paramethasone
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Ciclesonide
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Difluprednate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Ulipristal
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Fluticasone furoate
+NR3C1	nuclear receptor subfamily 3 group C member 1	Artery Coronary, Heart Atrial	0.337	0.317	3.419	target	Clobetasone
+NR3C2	nuclear receptor subfamily 3 group C member 2	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.36	0.283	2.867	target	Spironolactone
+NR3C2	nuclear receptor subfamily 3 group C member 2	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.36	0.283	2.867	target	Fludrocortisone
+NR3C2	nuclear receptor subfamily 3 group C member 2	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.36	0.283	2.867	target	Eplerenone
+NR3C2	nuclear receptor subfamily 3 group C member 2	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.36	0.283	2.867	target	Drospirenone
+PARP2	poly(ADP-ribose) polymerase 2	Artery Coronary, Artery Tibial, Heart Atrial	0.323	0.349	3.203	target	Olaparib
+PARP2	poly(ADP-ribose) polymerase 2	Artery Coronary, Artery Tibial, Heart Atrial	0.323	0.349	3.203	target	Niraparib
+PARP2	poly(ADP-ribose) polymerase 2	Artery Coronary, Artery Tibial, Heart Atrial	0.323	0.349	3.203	target	Rucaparib
+PDE10A	phosphodiesterase 10A	Artery Coronary, Heart Atrial	0.384	0.193	4.555	target	Dipyridamole
+PDE10A	phosphodiesterase 10A	Artery Coronary, Heart Atrial	0.384	0.193	4.555	target	Triflusal
+PDE10A	phosphodiesterase 10A	Artery Coronary, Heart Atrial	0.384	0.193	4.555	target	Trapidil
+PDE1C	phosphodiesterase 1C	Artery Tibial, Heart Atrial	0.35	0.288	2.851	target	Trapidil
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Theophylline
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Dyphylline
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Pentoxifylline
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Enprofylline
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Papaverine
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Ibudilast
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Apremilast
+PDE4B	phosphodiesterase 4B	Artery Coronary, Artery Tibial	0.571	0.283	4.39	target	Trapidil
+PDE4C	phosphodiesterase 4C	Artery Coronary	0.682	0.184	3.513	target	Dyphylline
+PDE4C	phosphodiesterase 4C	Artery Coronary	0.682	0.184	3.513	target	Ibudilast
+PDE4C	phosphodiesterase 4C	Artery Coronary	0.682	0.184	3.513	target	Trapidil
+PDE4D	phosphodiesterase 4D	Artery Coronary, Heart Atrial	0.476	0.288	4.775	target	Dyphylline
+PDE4D	phosphodiesterase 4D	Artery Coronary, Heart Atrial	0.476	0.288	4.775	target	Apremilast
+PDE4D	phosphodiesterase 4D	Artery Coronary, Heart Atrial	0.476	0.288	4.775	target	Trapidil
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Sildenafil
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Theophylline
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Pentoxifylline
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Tadalafil
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Vardenafil
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Dipyridamole
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Avanafil
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Udenafil
+PDE5A	phosphodiesterase 5A	Artery Coronary, Artery Tibial, Heart Atrial	0.392	0.256	2.943	target	Trapidil
+PDE6B	phosphodiesterase 6B	Heart Atrial	0.365	0.248	2.929	target	Trapidil
+PDE7A	phosphodiesterase 7A	Heart Atrial	0.326	0.159	3.481	target	Dyphylline
+PDE7A	phosphodiesterase 7A	Heart Atrial	0.326	0.159	3.481	target	Trapidil
+PDK1	pyruvate dehydrogenase kinase 1, 3-phosphoinositide dependent protein kinase 1	Artery Coronary, Artery Tibial	0.53	0.238	3.871	target	Dichloroacetic Acid
+PGF	placental growth factor	Artery Tibial	0.685	0.381	3.54	target	Aflibercept
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Etonogestrel
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Desogestrel
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Levonorgestrel
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Medroxyprogesterone acetate
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Ethynodiol diacetate
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Mifepristone
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Norgestimate
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Drospirenone
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Danazol
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Allylestrenol
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Norelgestromin
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Ulipristal
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Dienogest
+PGR	progesterone receptor	Aorta, Artery Coronary, Heart Atrial	0.352	0.231	3.185	target	Norgestrel
+PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	Artery Tibial	0.289	0.235	0.976	target	Copanlisib
+PLCL1	phospholipase C like 1	Aorta	0.321	0.221	2.92	target	Quinacrine
+PNP	purine nucleoside phosphorylase, pancreatic polypeptide	Aorta, Artery Coronary, Heart Atrial	0.784	0.255	5.199	target	Cladribine
+PPARD	peroxisome proliferator activated receptor delta	Artery Coronary	0.362	0.207	4.464	target	Icosapent
+PPARD	peroxisome proliferator activated receptor delta	Artery Coronary	0.362	0.207	4.464	target	Treprostinil
+PPARD	peroxisome proliferator activated receptor delta	Artery Coronary	0.362	0.207	4.464	target	Bezafibrate
+PPARD	peroxisome proliferator activated receptor delta	Artery Coronary	0.362	0.207	4.464	target	Glycerin
+PRKCA	protein kinase C alpha	Artery Tibial	0.281	0.204	2.856	target	Midostaurin
+PTAFR	platelet activating factor receptor	Artery Coronary	1.648	0.145	0.696	target	Rupatadine
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Icosapent
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Mesalazine
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Acetaminophen
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Indomethacin
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Nabumetone
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Ketorolac
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Tenoxicam
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Celecoxib
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Tolmetin
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Piroxicam
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Fenoprofen
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Sulindac
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Flurbiprofen
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Mefenamic acid
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Sulfasalazine
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Diflunisal
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Bromfenac
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Oxaprozin
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Balsalazide
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Ibuprofen
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Lumiracoxib
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Magnesium salicylate
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Salsalate
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Tiaprofenic acid
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Etoricoxib
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Niflumic Acid
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Lornoxicam
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Aceclofenac
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Parecoxib
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Pomalidomide
+PTGS2	prostaglandin-endoperoxide synthase 2	Artery Coronary, Heart Atrial	0.914	0.279	4.496	target	Dexibuprofen
+RARA	retinoic acid receptor alpha	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.444	0.325	4.32	target	Acitretin
+RARA	retinoic acid receptor alpha	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.444	0.325	4.32	target	Alitretinoin
+RARA	retinoic acid receptor alpha	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.444	0.325	4.32	target	Tazarotene
+RARA	retinoic acid receptor alpha	Aorta, Artery Coronary, Artery Tibial, Heart Atrial	0.444	0.325	4.32	target	Tamibarotene
+RARB	retinoic acid receptor beta	Heart Atrial	0.324	0.262	2.809	target	Adapalene
+RARB	retinoic acid receptor beta	Heart Atrial	0.324	0.262	2.809	target	Acitretin
+RARB	retinoic acid receptor beta	Heart Atrial	0.324	0.262	2.809	target	Alitretinoin
+RARB	retinoic acid receptor beta	Heart Atrial	0.324	0.262	2.809	target	Tazarotene
+RARB	retinoic acid receptor beta	Heart Atrial	0.324	0.262	2.809	target	Tamibarotene
+RARG	retinoic acid receptor gamma	Aorta, Artery Coronary, Heart Atrial	0.341	0.219	3.008	target	Adapalene
+RARG	retinoic acid receptor gamma	Aorta, Artery Coronary, Heart Atrial	0.341	0.219	3.008	target	Acitretin
+RARG	retinoic acid receptor gamma	Aorta, Artery Coronary, Heart Atrial	0.341	0.219	3.008	target	Alitretinoin
+RARG	retinoic acid receptor gamma	Aorta, Artery Coronary, Heart Atrial	0.341	0.219	3.008	target	Tazarotene
+SCN4B	sodium voltage-gated channel beta subunit 4	Heart Atrial	0.426	0.149	3.166	target	Zonisamide
+SCN4B	sodium voltage-gated channel beta subunit 4	Heart Atrial	0.426	0.149	3.166	target	Brivaracetam
+SCN7A	sodium voltage-gated channel alpha subunit 7	Heart Atrial	0.457	0.293	3.443	target	Brivaracetam
+SCNN1D	sodium channel epithelial 1 delta subunit	Heart Atrial	0.344	0.197	2.763	target	Amiloride
+SHMT1	serine hydroxymethyltransferase 1	Artery Tibial	0.398	0.221	0.548	target	Mimosine
+SLC1A5	solute carrier family 1 member 5	Artery Coronary, Heart Atrial	0.418	0.144	5.902	target	Fluciclovine (18F)
+SLC2A1	solute carrier family 2 member 1	Artery Coronary, Artery Tibial, Heart Atrial	0.588	0.162	4.483	transporter	Fludeoxyglucose F-18
+SLC2A10	solute carrier family 2 member 10	Heart Atrial	0.305	0.136	2.947	transporter	Fludeoxyglucose F-18
+SLC2A11	solute carrier family 2 member 11	Aorta, Artery Coronary, Heart Atrial	0.297	0.252	2.914	transporter	Fludeoxyglucose F-18
+SLC2A12	solute carrier family 2 member 12	Artery Tibial	0.336	0.19	2.051	transporter	Fludeoxyglucose F-18
+SLC2A3	solute carrier family 2 member 3	Aorta, Artery Coronary, Heart Atrial	0.705	0.317	4.577	transporter	Fludeoxyglucose F-18
+SLC2A4	solute carrier family 2 member 4	Heart Atrial	0.338	0.202	2.626	transporter	Fludeoxyglucose F-18
+SLC6A1	solute carrier family 6 member 1	Artery Coronary, Heart Atrial	0.587	0.279	3.476	target; transporter	Tiagabine
+SLC6A1	solute carrier family 6 member 1	Artery Coronary, Heart Atrial	0.587	0.279	3.476	target; transporter	Clobazam
+SLC8A1	solute carrier family 8 member A1	Artery Tibial	0.382	0.207	2.457	target	Icosapent
+SMO	smoothened, frizzled class receptor, spermine oxidase	Heart Atrial	0.399	0.285	2.754	target	Vismodegib
+SMOX	spermine oxidase	Artery Coronary	0.392	0.187	4.338	target	Spermine
+SSTR5	somatostatin receptor 5	Heart Atrial	0.51	0.196	2.776	target	Vapreotide
+SSTR5	somatostatin receptor 5	Heart Atrial	0.51	0.196	2.776	target	Octreotide
+TBXA2R	thromboxane A2 receptor	Aorta	0.24	0.201	3.225	target	Ridogrel
+THRA	thyroid hormone receptor, alpha	Aorta, Heart Atrial	0.286	0.239	2.321	target	Levothyroxine
+THRA	thyroid hormone receptor, alpha	Aorta, Heart Atrial	0.286	0.239	2.321	target	Dextrothyroxine
+THRA	thyroid hormone receptor, alpha	Aorta, Heart Atrial	0.286	0.239	2.321	target	Liotrix
+THRB	thyroid hormone receptor beta	Aorta	0.283	0.154	3.211	target	Levothyroxine
+THRB	thyroid hormone receptor beta	Aorta	0.283	0.154	3.211	target	Dextrothyroxine
+THRB	thyroid hormone receptor beta	Aorta	0.283	0.154	3.211	target	Liotrix
+TLR2	toll like receptor 2	Heart Atrial	0.672	0.145	5.335	target	Tuberculin Purified Protein Derivative
+TNFSF13B	tumor necrosis factor superfamily member 13b	Artery Tibial	0.562	0.162	3.532	target	Belimumab
+TNNC1	troponin C1, slow skeletal and cardiac type, troponin I3, cardiac type	Artery Tibial	0.887	0.033	2.833	target	Levosimendan
+TNNC1	troponin C1, slow skeletal and cardiac type, troponin I3, cardiac type	Artery Tibial	0.887	0.033	2.833	target	Calcium
+TNNC2	troponin C2, fast skeletal type	Artery Tibial	0.892	0.03	2.777	target	Calcium
+TPH1	tryptophan hydroxylase 1	Artery Coronary	0.672	0.129	3.339	target	Sapropterin
+TPH1	tryptophan hydroxylase 1	Artery Coronary	0.672	0.129	3.339	target	Telotristat
+TST	thiosulfate sulfurtransferase	Aorta, Artery Tibial	0.42	0.279	0.694	enzyme	Thiosulfuric acid
+TUBA4A	tubulin alpha 4a	Aorta	0.33	0.19	4.347	target	Podofilox
+TUBA4A	tubulin alpha 4a	Aorta	0.33	0.19	4.347	target	Cabazitaxel
+TUBB	tubulin beta 2A class IIa, tubulin beta class I	Artery Tibial	0.299	0.251	3.818	target	Vinorelbine
+TUBB	tubulin beta 2A class IIa, tubulin beta class I	Artery Tibial	0.299	0.251	3.818	target	Vincristine
+TUBB	tubulin beta 2A class IIa, tubulin beta class I	Artery Tibial	0.299	0.251	3.818	target	Vinblastine
+TUBB	tubulin beta 2A class IIa, tubulin beta class I	Artery Tibial	0.299	0.251	3.818	target	Podofilox
+TUBB	tubulin beta 2A class IIa, tubulin beta class I	Artery Tibial	0.299	0.251	3.818	target	Colchicine
+TUBE1	tubulin epsilon 1	Artery Coronary	0.315	0.299	3.981	target	Vinblastine
+TUBG1	tubulin gamma 1	Artery Coronary	0.355	0.183	0.41	target	Vinblastine
+TXNRD1	thioredoxin reductase 1	Artery Tibial	0.545	0.304	0.323	target	Arsenic trioxide
+TYMP	thymidine phosphorylase	Heart Atrial	0.399	0.114	5.193	target	Tipiracil
+UGCG	UDP-glucose ceramide glucosyltransferase	Artery Coronary, Heart Atrial	0.676	0.362	4.755	target	Miglustat
+UGCG	UDP-glucose ceramide glucosyltransferase	Artery Coronary, Heart Atrial	0.676	0.362	4.755	target	Eliglustat
+VAMP1	vesicle associated membrane protein 1	Aorta, Artery Coronary	0.376	0.233	3.234	target	Botulinum Toxin Type B
+VEGFA	vascular endothelial growth factor A	Artery Coronary, Artery Tibial, Heart Atrial	0.654	0.268	4.438	target	Bevacizumab
+VEGFA	vascular endothelial growth factor A	Artery Coronary, Artery Tibial, Heart Atrial	0.654	0.268	4.438	target	Ranibizumab
+VEGFA	vascular endothelial growth factor A	Artery Coronary, Artery Tibial, Heart Atrial	0.654	0.268	4.438	target	Dalteparin
+VEGFA	vascular endothelial growth factor A	Artery Coronary, Artery Tibial, Heart Atrial	0.654	0.268	4.438	target	Aflibercept
+YES1	YES proto-oncogene 1, Src family tyrosine kinase	Artery Coronary	0.33	0.256	4.531	target	Dasatinib
+
