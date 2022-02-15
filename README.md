@@ -1,38 +1,28 @@
 ## Cardiac Drug Plotter
 
-What this resource is ![Image](https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1)
+Welcome to a resource from the comparative chronomics group hosted on GitHub ![Image](https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1)
 
-### Markdown
+The cardiac drug plotter is intended to aid in planning for clinical trial design when considering drugs with targets that have circadian expression
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Use the drug plotter](https://chronomics.shinyapps.io/CardiacDrugPlotter/) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This tool is currently hosted on the shinyapps server at:
+<https://chronomics.shinyapps.io/CardiacDrugPlotter/>
 
 ### Usage
 
-Usage instructons
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+[Use the drug plotter](https://chronomics.shinyapps.io/CardiacDrugPlotter/) and ![Image](src)
+
+_To use this tool follow these steps:_
+- Select a drug
+- Select a target of the drug
+- The plot displays the peak phase of the drug in teal
+- Consider the optimum time for measuring heart rate in conjunction with
+
 
 ### Support or Contact
 
-Please contact [Assistant Professor Timothy Hearn](tjh70@cam.ac.uk) for more information or support using this tool.
+Please contact [Assistant Professor Timothy Hearn](mailto:tjh70@cam.ac.uk) for more information or support using this tool.
 
 ### Disclaimer
 
