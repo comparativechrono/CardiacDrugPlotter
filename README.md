@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Cardiac Drug Plotter
 
-You can use the [editor on GitHub](https://github.com/comparativechrono/CardiacDrugPlotter/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What this resource is ![https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1](src)
 
 ### Markdown
 
@@ -23,15 +21,19 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://chronomics.shinyapps.io/CardiacDrugPlotter/](Use the drug plotter) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Usage
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/comparativechrono/CardiacDrugPlotter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Usage instructons
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please contact [tjh70@cam.ac.uk](Assistant Professor Timothy Hearn) for more information or support using this tool.
+
+### Disclaimer
+
+This is not a clinical tool, and should not be used for 
