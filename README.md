@@ -1,6 +1,6 @@
 ## Cardiac Drug Plotter
 
-What this resource is ![https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1](src)
+What this resource is ![Image](https://www.dropbox.com/s/odcgea6xau8sz16/logo.png?dl=1)
 
 ### Markdown
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://chronomics.shinyapps.io/CardiacDrugPlotter/](Use the drug plotter) and ![Image](src)
+[Use the drug plotter](https://chronomics.shinyapps.io/CardiacDrugPlotter/) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -32,7 +32,7 @@ Usage instructons
 
 ### Support or Contact
 
-Please contact [tjh70@cam.ac.uk](Assistant Professor Timothy Hearn) for more information or support using this tool.
+Please contact [Assistant Professor Timothy Hearn](tjh70@cam.ac.uk) for more information or support using this tool.
 
 ### Disclaimer
 
